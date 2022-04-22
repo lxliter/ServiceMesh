@@ -38,7 +38,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>1.4.2.RELEASE</version>
                 <configuration>
-                    <mainClass>cn.itcast.movie.MovieApplication</mainClass>
+                    <mainClass>cn.lxl.movie.MovieApplication</mainClass>
                     <outputDirectory>F:\\publish</outputDirectory>
                 </configuration>
                 <executions>

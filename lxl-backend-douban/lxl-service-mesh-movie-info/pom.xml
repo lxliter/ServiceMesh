@@ -25,7 +25,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>cn.itcast.movie.MovieInfoApplication</mainClass>
+                    <mainClass>cn.lxl.movie.MovieInfoApplication</mainClass>
                     <outputDirectory>F:\\publish</outputDirectory>
                 </configuration>
                 <executions>

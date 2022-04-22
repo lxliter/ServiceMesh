@@ -70,7 +70,7 @@
                 <version>1.4.2.RELEASE</version>
                 <configuration>
                     <fork>true</fork>
-                    <mainClass>cn.itcast.douban.DouBanApplication</mainClass>
+                    <mainClass>cn.lxl.douban.DouBanApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

@@ -1,11 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4a7296e-217a-4db3-9f34-3c84e2ef8bfa" name="Default Changelist" comment="" />
+    <list default="true" id="e4a7296e-217a-4db3-9f34-3c84e2ef8bfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/itcast/movie/pojo/ActedIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/lxl/movie/pojo/ActedIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/itcast/movie/pojo/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/lxl/movie/pojo/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/itcast/movie/pojo/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/lxl/movie/pojo/Family.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/itcast/movie/pojo/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/lxl/movie/pojo/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/itcast/movie/pojo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/lxl/movie/pojo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/itcast/movie/pojo/PersonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/lxl/movie/pojo/PersonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/itcast/movie/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/lxl/movie/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/itcast/movie/vo/MovieResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/lxl/movie/vo/MovieResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/itcast/movie/vo/RecommendMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/src/main/java/cn/lxl/movie/vo/RecommendMovie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/itcast/movie/MovieInfoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/lxl/movie/MovieInfoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/itcast/movie/config/AutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/lxl/movie/config/AutoConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/itcast/movie/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/lxl/movie/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/itcast/movie/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/lxl/movie/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/itcast/movie/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/lxl/movie/repository/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/itcast/movie/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/src/main/java/cn/lxl/movie/service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/itcast/movie/MovieRatingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/lxl/movie/MovieRatingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/itcast/movie/config/AutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/lxl/movie/config/AutoConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/itcast/movie/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/lxl/movie/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/itcast/movie/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/lxl/movie/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/itcast/movie/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/lxl/movie/repository/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/itcast/movie/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/src/main/java/cn/lxl/movie/service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/itcast/movie/MovieRecommendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/lxl/movie/MovieRecommendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/itcast/movie/config/AutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/lxl/movie/config/AutoConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/itcast/movie/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/lxl/movie/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/itcast/movie/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/lxl/movie/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/itcast/movie/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/lxl/movie/repository/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/itcast/movie/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/src/main/java/cn/lxl/movie/service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/src/main/java/cn/itcast/movie/MovieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/src/main/java/cn/lxl/movie/MovieApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/src/main/java/cn/itcast/movie/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/src/main/java/cn/lxl/movie/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/src/main/java/cn/itcast/movie/config/RestTemplateConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/src/main/java/cn/lxl/movie/config/RestTemplateConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/src/main/java/cn/itcast/movie/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/src/main/java/cn/lxl/movie/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/src/main/java/cn/itcast/movie/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/src/main/java/cn/lxl/movie/service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-backend-douban/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-backend-douban/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/DouBanApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/DouBanApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/config/AutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/config/AutoConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/controller/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/pojo/ActedIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/pojo/ActedIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/pojo/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/pojo/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/pojo/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/pojo/Family.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/pojo/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/pojo/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/pojo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/pojo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/pojo/PersonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/pojo/PersonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/repository/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/repository/PersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/repository/PersonRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/service/MovieService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/itcast/douban/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lxl-frontend-douban/src/main/java/cn/lxl/douban/service/PersonService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -16,6 +76,7 @@
     </option>
   </component>
   <component name="ProjectId" id="289H6DuKIPUXNT7fh3ll9C9E2NV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,9 +84,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -53,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650621703259</updated>
-      <workItem from="1650621704735" duration="432000" />
+      <workItem from="1650621704735" duration="3439000" />
     </task>
     <servers />
   </component>
