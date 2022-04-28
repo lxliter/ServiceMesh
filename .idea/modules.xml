@@ -3,13 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ServiceMesh.iml" filepath="$PROJECT_DIR$/.idea/ServiceMesh.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lxl-backend-douban/lxl-backend-douban.iml" filepath="$PROJECT_DIR$/lxl-backend-douban/lxl-backend-douban.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lxl-frontend-douban/lxl-frontend-douban.iml" filepath="$PROJECT_DIR$/lxl-frontend-douban/lxl-frontend-douban.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/lxl-service-mesh-movie-common.iml" filepath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-common/lxl-service-mesh-movie-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/lxl-service-mesh-movie-info.iml" filepath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-info/lxl-service-mesh-movie-info.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/lxl-service-mesh-movie-rating.iml" filepath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-rating/lxl-service-mesh-movie-rating.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/lxl-service-mesh-movie-recommend.iml" filepath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-recommend/lxl-service-mesh-movie-recommend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/lxl-service-mesh-movie-web.iml" filepath="$PROJECT_DIR$/lxl-backend-douban/lxl-service-mesh-movie-web/lxl-service-mesh-movie-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie.iml" filepath="$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie-common/lxl-service-mesh-movie-common.iml" filepath="$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie-common/lxl-service-mesh-movie-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie-info/lxl-service-mesh-movie-info.iml" filepath="$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie-info/lxl-service-mesh-movie-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie-rating/lxl-service-mesh-movie-rating.iml" filepath="$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie-rating/lxl-service-mesh-movie-rating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie-recommend/lxl-service-mesh-movie-recommend.iml" filepath="$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie-recommend/lxl-service-mesh-movie-recommend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie-web/lxl-service-mesh-movie-web.iml" filepath="$PROJECT_DIR$/lxl-service-mesh-movie/lxl-service-mesh-movie-web/lxl-service-mesh-movie-web.iml" />
     </modules>
   </component>
 </project>

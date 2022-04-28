@@ -6,17 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="lxl-frontend-douban" />
-        <module name="lxl-service-mesh-movie-recommend" />
-        <module name="lxl-service-mesh-movie-rating" />
-        <module name="lxl-service-mesh-movie-info" />
-        <module name="lxl-service-mesh-movie-web" />
         <module name="lxl-service-mesh-movie-common" />
+        <module name="lxl-service-mesh-movie-recommend" />
+        <module name="lxl-service-mesh-movie-info" />
+        <module name="lxl-service-mesh-movie-rating" />
+        <module name="lxl-service-mesh-movie-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="lxl-backend-douban" target="1.8" />
       <module name="lxl-frontend-douban" target="1.8" />
+      <module name="lxl-service-mesh-movie" target="1.8" />
       <module name="lxl-service-mesh-movie-common" target="1.8" />
       <module name="lxl-service-mesh-movie-info" target="1.8" />
       <module name="lxl-service-mesh-movie-rating" target="1.8" />
